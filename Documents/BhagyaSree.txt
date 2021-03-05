@@ -1,5 +1,6 @@
 Group no:36
 Name of project: Online Book Store Management system
-Name : Rachamalla Bhagya Sree(Team Leader)
+Name : Rachamalla Bhagya Sree
 Roll no: S20190010147
-No.of members: 6 
+No.of members: 6
+I am Team Leader.
